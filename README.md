@@ -1,7 +1,7 @@
 https://1601558au.azurewebsites.net/
 
 <u><br> GETTING STARTED </br></u>
-to use this app at your own compucter you have to clone project files to XAMP folder and run folowing sql scripts to make tables. Database are created automatically
+to use this app at your own compucter you have to clone project files to XAMP HTDOCS folder and run folowing sql scripts to make tables. Database are created automatically. Using my app at given link wont reguire you to do anything, everything sis go to go.
 
 CREATE TABLE user (
 id INT NOT NULL AUTO_INCREMENT,
