@@ -19,6 +19,11 @@ id INT NOT NULL AUTO_INCREMENT,
 	PRIMARY KEY (id )
 )
 
+<u>MORE INFO </u>
+You can find more important info about status of project at wiki 
+
+
+
 <u>USING APP </u>
 1. Insert infos to the app
 ![img](https://i.imgur.com/sJE9EA3.png)
