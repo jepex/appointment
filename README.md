@@ -9,5 +9,5 @@ to use this app you dont need to comming any scripts at all, youjust open app an
 1. Insert infos to the app
 ![img](https://i.imgur.com/sJE9EA3.png)
 
-2. 
+2. Check out your infos from database
 ![img](https://i.imgur.com/v0fE7Lf.png)
