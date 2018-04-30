@@ -6,5 +6,8 @@ to use this app you dont need to comming any scripts at all, youjust open app an
 
 
 <u>USING APP </u>
-
+1. Insert infos to the app
 ![img](https://i.imgur.com/sJE9EA3.png)
+
+2. 
+![img](https://i.imgur.com/v0fE7Lf.png)
