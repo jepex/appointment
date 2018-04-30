@@ -12,8 +12,8 @@ to use this app you dont need to comming any scripts at all, youjust open app an
 2. Check out your infos from database
 ![img](https://i.imgur.com/v0fE7Lf.png)
 
-3. Check out your infos from database
+3. Delete your infos from database
 ![img](https://i.imgur.com/BUsSmcm.png)
 
-4. Check out your infos from database
+4. Update your infos from database
 ![img](https://i.imgur.com/CxztXF7.png)
